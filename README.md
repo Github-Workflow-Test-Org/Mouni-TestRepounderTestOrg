@@ -1,11 +1,10 @@
-# Vulnado - Intentionally Vulnerable Java Application (test7 36)dcxcf
 
-This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them..test test1 test2 test3 test4 4 5 test67
 
+dasdass
 ## Up and running
 
 1. Install Docker for [MacOS](https://hub.docker.com/editions/community/docker-ce-desktop-mac) or [Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows). You'll need to create a Docker account if you don't already have one.
-2. `git clone git://github.com/ScaleSec/vulnado`
+2. `git clone git://github.com/ScaleSec/vulnado`bgfb
 3. `cd vulnado`
 4. `docker-compose up`
 5. Open a browser and navigate to the client to make sure it's working: [http://localhost:1337](http://localhost:1337)
