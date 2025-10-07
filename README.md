@@ -1,5 +1,5 @@
 # Vulnado - Intentionally Vulnerable Java Application (test7 36)
-
+xcdxd
 
 
 ## Up and running
